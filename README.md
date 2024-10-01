@@ -13,3 +13,14 @@ challenge 2 is to use the absolute path of programs. lets say the program "alpha
 challenge 3 is to use cd (change directory) to go to a certain directory and then invoke the path
 ![pwn college - Google Chrome 01-10-2024 23_55_39](https://github.com/user-attachments/assets/75ce789f-d768-404e-865e-09f03aed2be8)
 
+challenge 4 is similar to challenge 3, it asks you to change directory to another directory
+![pwn college - Google Chrome 02-10-2024 00_03_14](https://github.com/user-attachments/assets/4db330c4-1df9-4ea0-b691-08bd51915682)
+
+challenge 5 is the same, cd to a directory, invoke the path given 
+![pwn college - Google Chrome 02-10-2024 00_10_51](https://github.com/user-attachments/assets/471ce7da-5ffb-473d-804e-f7cb6a3877cb)
+
+challenge 6 is about implicit relative paths cwd would be the path im currently in and then I need to change directory and invoke the path 
+![pwn college - Google Chrome 02-10-2024 00_14_37](https://github.com/user-attachments/assets/a86ccf70-517a-41a8-9c13-2b24f0bbdf4b)
+
+challenge 7 is 
+
