@@ -10,3 +10,6 @@ challenge 1 is to invoke a program by providing its path as "/<program_name>"
 challenge 2 is to use the absolute path of programs. lets say the program "alpha" lies in "alphabets" which inturn lies in / directory then to invoke it "/alphabet/alpha" is used
 ![pwn college - Google Chrome 01-10-2024 23_50_01](https://github.com/user-attachments/assets/23a88d32-f2e1-4c11-a403-11e89f360060)
 
+challenge 3 is to use cd (change directory) to go to a certain directory and then invoke the path
+![pwn college - Google Chrome 01-10-2024 23_55_39](https://github.com/user-attachments/assets/75ce789f-d768-404e-865e-09f03aed2be8)
+
