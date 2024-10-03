@@ -22,5 +22,7 @@ challenge 5 is the same, cd to a directory, invoke the path given
 challenge 6 is about implicit relative paths cwd would be the path im currently in and then I need to change directory and invoke the path 
 ![pwn college - Google Chrome 02-10-2024 00_14_37](https://github.com/user-attachments/assets/a86ccf70-517a-41a8-9c13-2b24f0bbdf4b)
 
-challenge 7 is 
+challenge 7 is about explicit relative paths, getting to use . to reference paths 
+![Ubuntu 04-10-2024 00_14_29](https://github.com/user-attachments/assets/8e46e935-09a0-40a8-a363-059e3f3d8f65)
+
 
