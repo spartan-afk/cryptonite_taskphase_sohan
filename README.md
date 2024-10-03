@@ -1,7 +1,8 @@
 # cryptonite_taskphase_sohan
 ##module 1 (hello hackers) is to just follow instructions, use simple commands with/without arguments
-![pwn college - Google Chrome 01-10-2024 19_43_55](https://github.com/user-attachments/assets/33bbe052-0bf5-42ff-8690-f8b11718031b)
-![pwn college - Google Chrome 01-10-2024 19_43_00](https://github.com/user-attachments/assets/012beb4b-0b4b-4cdb-b6cc-47cf894e96a7)
+![Ubuntu 04-10-2024 00_18_42](https://github.com/user-attachments/assets/46bdee62-0fe2-4aee-8c3c-f0a7a50cd9a8)
+![pwn college - Google Chrome 04-10-2024 00_20_04](https://github.com/user-attachments/assets/05861dcd-d192-47ff-846e-4c0c44115d84)
+
 
 ##module 2 (pondering paths)
 challenge 1 is to invoke a program by providing its path as "/<program_name>"
