@@ -26,4 +26,9 @@ challenge 6 is about implicit relative paths cwd would be the path im currently 
 challenge 7 is about explicit relative paths, getting to use . to reference paths 
 ![Ubuntu 04-10-2024 00_14_29](https://github.com/user-attachments/assets/8e46e935-09a0-40a8-a363-059e3f3d8f65)
 
+challenge 8 is about implicit relative path, just change directory and use /run
+![Ubuntu 06-10-2024 17_18_32](https://github.com/user-attachments/assets/337c08f3-edc0-47a9-adf8-1dc2cc61f7e4)
+
+challenge 9 is about home directories, how ~ refers to the init directory, give the file name as argument 
+![Ubuntu 06-10-2024 17_27_17](https://github.com/user-attachments/assets/3516b82b-4a8d-455a-ac5b-6d81625a4bed)
 
