@@ -33,3 +33,40 @@ challenge 8 is about implicit relative path, just change directory and use /run
 challenge 9 is about home directories, how ~ refers to the init directory, give the file name as argument 
 ![Ubuntu 06-10-2024 17_27_17](https://github.com/user-attachments/assets/3516b82b-4a8d-455a-ac5b-6d81625a4bed)
 
+
+
+##module 3(comprehending commmands)
+challenge 1 - use the cat command to read the flag(the flag is given in the file called flag)
+![Ubuntu 06-10-2024 17_33_50](https://github.com/user-attachments/assets/797e2a6b-fffd-4e7f-9421-6664634fb9c8)
+
+challenge 2 - use the cat commmand with the absolute path of flag 
+![Ubuntu 06-10-2024 17_36_43](https://github.com/user-attachments/assets/2d16f766-10a7-4dac-bdfe-4e3e71be6f30)
+
+challenge 3 - we cant cd in this one, again use cat with the absolute path for some random file to get the flag 
+![Ubuntu 06-10-2024 17_38_55](https://github.com/user-attachments/assets/4714c092-3d80-451d-9fe7-6abb330f587e)
+
+challenge 4 - search pwn.college in /challenge/data.txt with the help fo grep command 
+![Ubuntu 06-10-2024 17_41_27](https://github.com/user-attachments/assets/dafac499-09b1-420b-a07f-70f990acadcd)
+
+challenge 5 - list the files of /challenge the flag is in the file with the weird name \
+![Screenshot 06-10-2024 17_53_44](https://github.com/user-attachments/assets/4aa0e5b7-6517-461a-b746-59f5a7a9b06a)
+
+challenge 6 - create two files pwn and college
+![Ubuntu 06-10-2024 17_59_22](https://github.com/user-attachments/assets/522af719-638f-4c8e-b754-3f40fa42b35d)
+
+challenge 7 - list the files in home directory, use rm to delete the delete_me file
+![Ubuntu 06-10-2024 18_02_17](https://github.com/user-attachments/assets/fad18b87-d893-40ba-bf3f-5c3cb8e42ab5)
+
+challenge 8 - lis all files in / along with hidden files , cat the content with the file name as flag something 
+![Ubuntu 06-10-2024 18_05_05](https://github.com/user-attachments/assets/c1df04fb-6557-4857-af84-002360991598)
+
+challenge 9 - epic filesystem quest (very tiring)
+![Ubuntu 06-10-2024 18_25_46](https://github.com/user-attachments/assets/0800ea3e-ae55-4e3b-8be3-74f434beddfb)
+![Ubuntu 06-10-2024 18_25_39](https://github.com/user-attachments/assets/b2fe4c2e-3489-4994-a818-80861be47d3a)
+![Ubuntu 06-10-2024 18_25_28](https://github.com/user-attachments/assets/3d984470-b27b-4728-8225-0e560d268618)
+
+
+
+
+
+
