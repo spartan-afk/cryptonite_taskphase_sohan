@@ -34,7 +34,6 @@ challenge 9 is about home directories, how ~ refers to the init directory, give 
 ![Ubuntu 06-10-2024 17_27_17](https://github.com/user-attachments/assets/3516b82b-4a8d-455a-ac5b-6d81625a4bed)
 
 
-
 ##module 3(comprehending commmands)
 challenge 1 - use the cat command to read the flag(the flag is given in the file called flag)
 ![Ubuntu 06-10-2024 17_33_50](https://github.com/user-attachments/assets/797e2a6b-fffd-4e7f-9421-6664634fb9c8)
@@ -76,7 +75,12 @@ challenge 11 - doesnt even make sense find the flag using trial and error
 ![Ubuntu 06-10-2024 22_52_37](https://github.com/user-attachments/assets/96d4bbf5-eba9-4bb2-a123-9cd073577fe2)
 ![Ubuntu 06-10-2024 22_52_28](https://github.com/user-attachments/assets/4d401e3b-a9ff-4991-9d06-4222f30bea67)
 
-challenge 12 - finding hidden files , again trial and error 
+challenge 12 - linking files , again trial and error 
+![pwn college - Google Chrome 06-10-2024 23_05_42](https://github.com/user-attachments/assets/e5ad2054-57e4-47fb-94ba-70c6a638a59c)
+
+
+##module 4 (digesting documentation)
+
 
 
 
